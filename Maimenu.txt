@@ -5,7 +5,7 @@ local ThemeManager = loadstring(game:HttpGet('https://raw.githubusercontent.com/
 local SaveManager = loadstring(game:HttpGet(repo .. 'addons/SaveManager.lua'))()
 
 local Window = Library:CreateWindow({
-    Title = 'Project Slayers // Shark Hub v2 PREMIUM // By ImperorLegend',
+    Title = 'Octo Hub // By SADOCTO // MAIN MENU',
     Center = true,
     AutoShow = true,
 })

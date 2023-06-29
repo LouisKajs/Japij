@@ -25,7 +25,7 @@ local Plr = game:GetService("Players").LocalPlayer
 local Data = game:GetService("ReplicatedStorage")["Player_Data"][game.Players.LocalPlayer.Name]
 local Tool = game:GetService("ReplicatedStorage").Tools:GetChildren()
 local WebhookURL = "" 
-game:GetService("Players").LocalPlayer.DisplayName = "SharkHub"
+game:GetService("Players").LocalPlayer.DisplayName = "OctoHub"
 
 local function GetHuman()
     local h = LP.Character
@@ -551,7 +551,7 @@ local ThemeManager = loadstring(game:HttpGet('https://raw.githubusercontent.com/
 local SaveManager = loadstring(game:HttpGet(repo .. 'addons/SaveManager.lua'))()
 
 local Window = Library:CreateWindow({
-    Title = 'Shark Hub v2 PREMIUM // By ImperorLegend // MAP 1',
+    Title = 'Octo Hub // By SADOCTO // MAP 1',
     Center = true,
     AutoShow = true,
 })

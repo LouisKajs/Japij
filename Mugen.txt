@@ -565,7 +565,7 @@ local ThemeManager = loadstring(game:HttpGet('https://raw.githubusercontent.com/
 local SaveManager = loadstring(game:HttpGet(repo .. 'addons/SaveManager.lua'))()
 
 local Window = Library:CreateWindow({
-    Title = 'Shark Hub v2 PREMIUM // By ImperorLegend // Mugen',
+    Title = 'Octo Hub // By SADOCTO // Mugen',
     Center = true,
     AutoShow = true,
 })
