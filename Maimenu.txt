@@ -59,13 +59,7 @@ local function sendCode(code, waitTime)
 end
 
 LeftGroupBox:AddButton("Auto SPIN CODES", function()
-    sendCode("ThanksForLikes600K", 12)
-    sendCode("ThanksForLikes600K2", 12)
-    sendCode("ThanksFor350MVisits2", 12)
-    sendCode("Thx4300MNOuwohanaIsBack", 12)
-    sendCode("ThanksFor350MVisits", 12)
-    sendCode("!ThanksFor250MVisits", 12)
-    sendCode("!Upd295MiniCode", 12)
+    sendCode("ThxFor400MVisits", 12)
 end)
 
 
